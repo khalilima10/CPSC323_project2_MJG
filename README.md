@@ -10,4 +10,4 @@
 
 
 
-###Fig.1 CFG rules for program
+Fig.1 CFG rules for program
