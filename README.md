@@ -2,11 +2,11 @@
 
 # Title: Programming Assignment 2: CFG Program
 ## Quick Summary
-
+_____
 #### This program takes an string input and validates or invalidates on the Context Free Grammer (CFG) shown in the figure below. The program will accept strings that ending with a $. At the start of the program, it will ask a user for a string the in a while loop will check if the string is a valid paser or not. 
 
 ## Code Runthrough
-
+_____
 
 
 
