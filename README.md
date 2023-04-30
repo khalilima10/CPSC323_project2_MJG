@@ -6,5 +6,5 @@
 #### This program takes an string input and validates or invalidates on the Context Free Grammer shown in the figure below. 
 
 
-![image](https://user-images.githubusercontent.com/70228598/235372444-92f8576e-4491-4d7f-9931-4a6ef6397aff.png)
+![image](https://user-images.githubusercontent.com/70228598/235372534-b9faae60-e286-4251-b5c8-911a8c602dda.png)
 
